@@ -1,4 +1,4 @@
-**** Player-Performance****
+Player-Performance
 #Topic and Business Objective 
 Sports has always been one of the most spoken about topics in most of the social media platforms and there are plenty of people who ardently follow sports and want to understand deep nuances and sentiments for different kind of games and players. Our project will focus on developing an interactive dashboard that serves as a one stop solution for all sports enthusiasts to get a basic understanding about the popular posts and tweets about the upcoming Football and Cricket T20 word cups. This dashboard will help audience to follow/bet on the right kind of player for a particular match, help sports enthusiasts to gain a fair knowledge on most spoken about topics and concepts around the world cup matches, Sentiment around different players and teams across different geographies etc. It will be a fun dashboard for sports followers to get a quick overview of the latest sports updates.
 
